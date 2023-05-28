@@ -1,1 +1,1 @@
-# WEB
+This Python script scrapes information from a website with multiple pages using requests and BeautifulSoup. It saves the extracted data in a CSV file, with a delay between requests to respect server policies.
